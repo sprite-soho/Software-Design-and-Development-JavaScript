@@ -103,13 +103,6 @@ JavaScript สามารถเพิ่มลงในเว็บเพจไ
         }
     </script>
 
-
-    <script>
-        document.getElementById('btn3').onclick = function hello3() {
-            alert('4:17 PM');
-        };
-    </script>
-
     <!-- Internal JavaScript -->
     <script>
         document.getElementById('btn2').onclick = function() {
@@ -124,7 +117,11 @@ JavaScript สามารถเพิ่มลงในเว็บเพจไ
 [บันทึกโค้ด ที่นี่]
 ```
 [รูปผลการทดลองที่ 1]
-  
+![image](https://github.com/user-attachments/assets/5f77f48f-f4a3-4f7e-b47f-902b5b8044f6)
+![image](https://github.com/user-attachments/assets/c7b20d71-8e38-4029-b980-9e3eb65cc37a)
+![image](https://github.com/user-attachments/assets/acf0448f-5530-45e0-9c62-8d47f016c177)
+![image](https://github.com/user-attachments/assets/c9df6e55-77df-469e-99f4-9abb2679d648)
+
 ## การทดลองที่ 2: พื้นฐาน JavaScript
 ### 2.1 การประกาศตัวแปรและชนิดข้อมูล
 
